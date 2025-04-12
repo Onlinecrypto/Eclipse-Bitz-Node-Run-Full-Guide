@@ -23,6 +23,9 @@ For macOS Users:
 
 If you have Homebrew installed (a package manager for macOS), install Git using the command below:
 
-'''' brew install git
+
+```bash
+brew install git
+
 
 If not installed, you can get Homebrew from: https://brew.sh/
